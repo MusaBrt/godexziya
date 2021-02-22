@@ -1,0 +1,2 @@
+# codexiabot
+Codexia Discord Bot
